@@ -1,2 +1,2 @@
 # account-eth
-JS library for address generation
+Fastest⚡JS library for address generation
