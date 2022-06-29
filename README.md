@@ -1,5 +1,6 @@
 ![package](https://badgen.net/badge/package/account-eth/blue)
-![downloads](https://badgen.net/npm/dw/account-eth)
+![downloads](https://badgen.net/npm/dt/account-eth)
+![version](https://badgen.net/npm/v/account-eth)
 ![size](https://img.shields.io/github/languages/code-size/ayushch80/account-eth)
 ![dependencies](https://img.shields.io/librariesio/release/npm/account-eth)
 ![commit](https://img.shields.io/github/last-commit/ayushch80/account-eth)
